@@ -6,7 +6,7 @@ cuenta el siguiente cuadro:"""
 """Categoria 2     15 - 19             25%"""
 """Categoria 3     20 - 45             10%"""
 """Categoria 4     46 - 65             25%"""
-"""Categoria 5   65 en adelante        35%"""
+"""Categoria 5   66 en adelante        35%"""
 
 asiento = float(input("ingrese el costo del asiento: "))
 edad = int(input("ingrese su edad: "))
